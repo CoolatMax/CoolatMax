@@ -1,40 +1,51 @@
-<h1 align="center">Hi 👋, I'm Shishir Shreedhar Tambe</h1>
-<h3 align="center">Engineer & Consultant in all Civil Related projects. Technical Writer, transitioning in TECH. Open source contributor.</h3>
+## Hi, I’m Shishir Shreedhar Tambe 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiskebab&label=Profile%20views&color=0e75b6&style=flat" alt="shiskebab" /> </p>
+I’m a **technical writer working in cybersecurity**, documenting enterprise-grade products like **eScan EDR, eScan XDR, and eScan EMM** at **Microworld Security Software Solutions**.
 
-- 🔭 I’m currently working on [O-RAN-SC](https://github.com/o-ran-sc/nonrtric)
+I specialize in translating complex security systems—endpoint detection, extended detection, device management, workflows, and policies—into documentation that engineers, security teams, and enterprise users can operate with confidence.
 
-- 🌱 I’m currently learning **Docsify, Github actions**
+I come from an engineering background, which means I don’t just describe features—I explain **systems, intent, and impact**.
 
-- 👯 I’m looking to collaborate on [LFX Mentorship (Open Quantum Safe)](https://github.com/open-quantum-safe/liboqs)
+> Good documentation isn’t support material.  
+> It’s part of the product.
 
-- 👨‍💻 All of my projects are available at [[sample]]([sample])
+---
 
-- 📝 I regularly write articles on [https://medium.com/@shishirtambe0](https://medium.com/@shishirtambe0)
+## What I work on
 
-- 💬 Ask me about **Markdown, Qgis**
+- 📘 **Product Documentation**: user guides, admin manuals, workflows, SOPs for security products  
+- 🔐 **Cybersecurity Docs**: EDR/XDR concepts, policies, configurations, alerts, response flows  
+- ⚙️ **Docs-as-Code**: Markdown, GitHub, versioned documentation, CI-friendly workflows  
+- 🧠 **Systems Thinking**: explaining how components interact, not just where buttons are  
 
-- 📫 How to reach me **shishirstambe01@gmail.com**
+---
 
-- 📄 Know about my experiences [[sample]]([sample])
+## Proof of work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shishtam22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shishtam22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shishir-tambe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shishir-tambe/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@shishirlearns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shishirlearns" height="30" width="40" /></a>
-<a href="https://medium.com/@shishirtambe0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shishirtambe0" height="30" width="40" /></a>
-</p>
+- 🧾 Actively documenting **production cybersecurity products** (EDR, XDR, EMM)  
+- ✍️ Writing on **Medium & Hashnode** about engineering, documentation, and systems thinking  
+- 📂 Documentation samples maintained on GitHub—**structured, versioned, reviewable**  
+- 🔁 Repos built **README-first**, the same way real documentation should be  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiskebab&show_icons=true&locale=en&layout=compact" alt="shiskebab" /></p>
+## Currently focused on
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiskebab&show_icons=true&locale=en" alt="shiskebab" /></p>
+- Strengthening **product documentation for security platforms**  
+- Improving **developer & user experience** through clearer docs  
+- Building a **public documentation portfolio** aligned with enterprise standards  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiskebab&" alt="shiskebab" /></p>
+---
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="30498aa0-2a64-433b-bfd6-70bab0314153" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+## Find me elsewhere
 
+- **LinkedIn**: https://linkedin.com/in/shishir-tambe  
+- **Medium**: https://medium.com/@shishirtambe  
+- **Hashnode**: https://hashnode.com/@ShishirLearns  
+- **Email**: shishirtambe01@gmail.com  
+
+---
+
+## Philosophy
+
+> “If it can’t be explained clearly, it’s not finished.”
