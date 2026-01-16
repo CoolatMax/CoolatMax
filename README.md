@@ -33,7 +33,7 @@ I come from an engineering background, which means I don’t just describe featu
 This section highlights hands-on documentation work across different documentation domains, aligned with real-world engineering and enterprise needs.
 
 ### 🖥️ CLI Documentation
-- 🔗 ![NanoForge-dev/CLI](https://github.com/NanoForge-dev/CLI) – ![docs: add CLI usage and development workflow documentation](https://github.com/NanoForge-dev/CLI/pull/47) 
+- 🔗 NanoForge-dev/CLI– https://github.com/NanoForge-dev/CLI/pull/47
 - 🔗 Repo 2 – Installation & configuration guides  
 - 🔗 Repo 3 – Command workflows & examples  
 - 🔗 Repo 4 – Troubleshooting & error handling  
