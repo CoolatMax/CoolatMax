@@ -24,8 +24,48 @@ I come from an engineering background, which means I don’t just describe featu
 
 - 🧾 Actively documenting **production cybersecurity products** (EDR, XDR, EMM)  
 - ✍️ Writing on **Medium & Hashnode** about engineering, documentation, and systems thinking  
-- 📂 Documentation samples maintained on GitHub—**structured, versioned, reviewable**  
-- 🔁 Repos built **README-first**, the same way real documentation should be  
+- 📂 Documentation samples maintained on GitHub — **structured, versioned, reviewable**
+
+---
+
+## Documentation Portfolio (by Type)
+
+This section highlights hands-on documentation work across different documentation domains, aligned with real-world engineering and enterprise needs.
+
+### 🖥️ CLI Documentation
+- 🔗 ![NanoForge-dev/CLI](https://github.com/NanoForge-dev/CLI) – ![docs: add CLI usage and development workflow documentation](https://github.com/NanoForge-dev/CLI/pull/47) 
+- 🔗 Repo 2 – Installation & configuration guides  
+- 🔗 Repo 3 – Command workflows & examples  
+- 🔗 Repo 4 – Troubleshooting & error handling  
+- 🔗 Repo 5 – CLI best practices  
+
+### 📦 SDK Documentation
+- 🔗 Repo 1 – SDK overview & setup  
+- 🔗 Repo 2 – Authentication & configuration  
+- 🔗 Repo 3 – Core operations & examples  
+- 🔗 Repo 4 – Error handling & retries  
+- 🔗 Repo 5 – Advanced usage patterns  
+
+### 🌐 API Documentation
+- 🔗 Repo 1 – API overview & concepts  
+- 🔗 Repo 2 – Authentication & authorization  
+- 🔗 Repo 3 – Endpoint reference & examples  
+- 🔗 Repo 4 – Error codes & responses  
+- 🔗 Repo 5 – API workflows & integrations  
+
+### ❓ FAQs
+- 🔗 Repo 1 – Product FAQs  
+- 🔗 Repo 2 – Security & compliance FAQs  
+- 🔗 Repo 3 – Configuration & deployment FAQs  
+- 🔗 Repo 4 – Troubleshooting FAQs  
+- 🔗 Repo 5 – Operational FAQs  
+
+### 📝 Release Notes
+- 🔗 Repo 1 – Versioned release notes  
+- 🔗 Repo 2 – Breaking changes documentation  
+- 🔗 Repo 3 – Feature & enhancement summaries  
+- 🔗 Repo 4 – Security fixes & advisories  
+- 🔗 Repo 5 – Upgrade & migration notes  
 
 ---
 
