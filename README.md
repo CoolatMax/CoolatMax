@@ -89,5 +89,5 @@ This section highlights hands-on documentation work across different documentati
 ## Philosophy
 
 > “If it can’t be explained clearly, it’s not finished.”
-![Uploading Gemini_Generated_Image_diywejdiywejdiyw.png…]()
+
 
