@@ -49,7 +49,7 @@ This section highlights hands-on documentation work across different documentati
 ### 🌐 API Documentation
 - 🔗 Repo 1 – API overview & concepts  
 - 🔗 Repo 2 – Authentication & authorization  
-- 🔗 Repo 3 – Endpoint reference & examples  
+- 🔗 Repo 3 – Endpoint reference & examples: https://github.com/eminwux/sbsh/pull/103  
 - 🔗 Repo 4 – Error codes & responses  
 - 🔗 Repo 5 – API integrations: https://github.com/devanshi14malhotra/BiblioDrift/pull/52
 
