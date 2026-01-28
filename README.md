@@ -51,7 +51,7 @@ This section highlights hands-on documentation work across different documentati
 - 🔗 Repo 2 – Authentication & authorization  
 - 🔗 Repo 3 – Endpoint reference & examples  
 - 🔗 Repo 4 – Error codes & responses  
-- 🔗 Repo 5 – API workflows & integrations  
+- 🔗 Repo 5 – API integrations: https://github.com/devanshi14malhotra/BiblioDrift/pull/52
 
 ### ❓ FAQs
 - 🔗 Repo 1 – Product FAQs  
