@@ -35,7 +35,7 @@ This section highlights hands-on documentation work across different documentati
 ### 🖥️ CLI Documentation
 - 🔗 Repo 1 - CLI Overview & concepts
 - 🔗 Repo 2 – Installation & configuration guides  
-- 🔗 Repo 3 – Command workflows & examples  
+- 🔗 Repo 3 – Command workflows & examples : https://github.com/envm-org/envm/pull/325
 - 🔗 Repo 4 – Troubleshooting & error handling  
 - 🔗 Repo 5 – CLI best practices  
 
