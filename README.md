@@ -37,7 +37,7 @@ This section highlights hands-on documentation work across different documentati
 - 🔗 Repo 2 – Installation & configuration guides  
 - 🔗 Repo 3 – Command workflows & examples : https://github.com/envm-org/envm/pull/325
 - 🔗 Repo 4 – Troubleshooting & error handling  
-- 🔗 Repo 5 – CLI best practices  
+- 🔗 Repo 5 – CLI best practices : https://github.com/sp29174/GreenhousePython/pull/99
 
 ### 📦 SDK Documentation
 - 🔗 Repo 1 – SDK overview & setup  
