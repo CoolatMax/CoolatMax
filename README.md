@@ -34,7 +34,7 @@ This section highlights hands-on documentation work across different documentati
 
 ### 🖥️ CLI Documentation
 - 🔗 Repo 1 - CLI Overview & concepts
-- 🔗 Repo 2 – Installation & configuration guides  
+- 🔗 Repo 2 – Installation & configuration guides : https://github.com/isha-1686/gitGoingFOSSRepo/pull/12
 - 🔗 Repo 3 – Command workflows & examples : https://github.com/envm-org/envm/pull/325
 - 🔗 Repo 4 – Troubleshooting & error handling  
 - 🔗 Repo 5 – CLI best practices : https://github.com/sp29174/GreenhousePython/pull/99
