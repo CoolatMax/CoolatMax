@@ -40,7 +40,7 @@ This section highlights hands-on documentation work across different documentati
 - 🔗 Repo 5 – CLI best practices : https://github.com/sp29174/GreenhousePython/pull/99
 
 ### 📦 SDK Documentation
-- 🔗 Repo 1 – SDK overview & setup  
+- 🔗 Repo 1 – SDK overview & setup : https://github.com/reclaimprotocol/docs/pull/106
 - 🔗 Repo 2 – Authentication & configuration  
 - 🔗 Repo 3 – Core operations & examples  
 - 🔗 Repo 4 – Error handling & retries  
