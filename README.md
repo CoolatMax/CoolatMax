@@ -41,8 +41,8 @@ This section highlights hands-on documentation work across different documentati
 
 ### 📦 SDK Documentation
 - 🔗 Repo 1 – SDK overview & setup : https://github.com/reclaimprotocol/docs/pull/106
-- 🔗 Repo 2 – Authentication & configuration  
-- 🔗 Repo 3 – Core operations & examples  
+- 🔗 Repo 2 – Authentication & configuration: https://github.com/prince0xdev/mailzeet-ts/pull/9
+- 🔗 Repo 3 – Core operations & examples: https://github.com/micah-nettey/layer-ai/pull/90 
 - 🔗 Repo 4 – Error handling & retries  
 - 🔗 Repo 5 – Advanced usage patterns  
 
