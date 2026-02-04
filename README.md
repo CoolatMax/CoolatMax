@@ -33,10 +33,10 @@ I come from an engineering background, which means I don’t just describe featu
 This section highlights hands-on documentation work across different documentation domains, aligned with real-world engineering and enterprise needs.
 
 ### 🖥️ CLI Documentation
-- 🔗 Repo 1 - CLI Overview & concepts
+- 🔗 Repo 1 - CLI Overview & concepts: https://github.com/reclaimprotocol/docs/pull/106
 - 🔗 Repo 2 – Installation & configuration guides : https://github.com/isha-1686/gitGoingFOSSRepo/pull/12
 - 🔗 Repo 3 – Command workflows & examples : https://github.com/envm-org/envm/pull/325
-- 🔗 Repo 4 – Troubleshooting & error handling  
+- 🔗 Repo 4 – Troubleshooting & error handling : 
 - 🔗 Repo 5 – CLI best practices : https://github.com/sp29174/GreenhousePython/pull/99
 
 ### 📦 SDK Documentation
