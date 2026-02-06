@@ -32,17 +32,17 @@ I come from an engineering background, which means I don’t just describe featu
 
 This section highlights hands-on documentation work across different documentation domains, aligned with real-world engineering and enterprise needs.
 
-### 🖥️ CLI Documentation: https://github.com/CoolatMax/ONLY_CLI_DOCUMENTATION
+#### 🖥️ CLI Documentation: https://github.com/CoolatMax/ONLY_CLI_DOCUMENTATION
 
-### 📦 SDK Documentation: https://github.com/CoolatMax/ONLY_SDK_DOCUMENTATION
+#### 📦 SDK Documentation: https://github.com/CoolatMax/ONLY_SDK_DOCUMENTATION
 
-### 🌐 API Documentation: https://github.com/CoolatMax/ONLY_API_DOCUMENTATION
+#### 🌐 API Documentation: https://github.com/CoolatMax/ONLY_API_DOCUMENTATION
 
-### ❓ FAQs: https://github.com/CoolatMax/ONLY_FAQs
+#### ❓ FAQs: https://github.com/CoolatMax/ONLY_FAQs
 
-### 📝 Release Notes: https://github.com/CoolatMax/ONLY_REFERENCE_NOTES
+#### 📝 Release Notes: https://github.com/CoolatMax/ONLY_REFERENCE_NOTES
 
-### 📘 End-User Documentation & Guides Portfolio: https://github.com/CoolatMax/ONLY_END_USER_DOCUMENTATION_-_GUIDE
+#### 📘 End-User Documentation & Guides: https://github.com/CoolatMax/ONLY_END_USER_DOCUMENTATION_-_GUIDE
 
 ---
 
