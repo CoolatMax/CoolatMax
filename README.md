@@ -11,7 +11,7 @@ I come from an engineering background, which means I don’t just describe featu
 
 ---
 
-## <summary>What I work on</summary>
+## What I work on
 
 - 📘 **Product Documentation**: user guides, admin manuals, workflows, SOPs for security products  
 - 🔐 **Cybersecurity Docs**: EDR/XDR concepts, policies, configurations, alerts, response flows  
@@ -20,7 +20,7 @@ I come from an engineering background, which means I don’t just describe featu
 
 ---
 
-## <summary>Proof of work </summary>
+## Proof of work 
 
 - 🧾 Actively documenting **production cybersecurity products** (EDR, XDR, EMM)  
 - ✍️ Writing on **Medium & Hashnode** about engineering, documentation, and systems thinking  
@@ -28,7 +28,7 @@ I come from an engineering background, which means I don’t just describe featu
 
 ---
 
-## <summary>Documentation Portfolio (by Type)</summary>
+## Documentation Portfolio (by Type)
 
 This section highlights hands-on documentation work across different documentation domains, aligned with real-world engineering and enterprise needs.
 
@@ -46,7 +46,7 @@ This section highlights hands-on documentation work across different documentati
 
 ---
 
-## <summary>Currently focused on</summary>
+## Currently focused on
 
 - Strengthening **product documentation for security platforms**  
 - Improving **developer & user experience** through clearer docs  
@@ -54,7 +54,7 @@ This section highlights hands-on documentation work across different documentati
 
 ---
 
-## <summary>Find me elsewhere</summary>
+## Find me elsewhere
 
 - **LinkedIn**: https://linkedin.com/in/shishir-tambe  
 - **Medium**: https://medium.com/@shishirtambe  
@@ -63,7 +63,7 @@ This section highlights hands-on documentation work across different documentati
 
 ---
 
-## <summary>Philosophy</summary>
+## Philosophy
 
 > “If it can’t be explained clearly, it’s not finished.”
 
