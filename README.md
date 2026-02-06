@@ -36,26 +36,13 @@ This section highlights hands-on documentation work across different documentati
 
 ### 📦 SDK Documentation: https://github.com/CoolatMax/ONLY_SDK_DOCUMENTATION
 
-### 🌐 API Documentation
-- 🔗 Repo 1 – API overview & concepts  
-- 🔗 Repo 2 – Authentication & authorization  
-- 🔗 Repo 3 – Endpoint reference & examples: https://github.com/eminwux/sbsh/pull/103  
-- 🔗 Repo 4 – Error codes & responses  
-- 🔗 Repo 5 – API integrations: https://github.com/devanshi14malhotra/BiblioDrift/pull/52
+### 🌐 API Documentation: https://github.com/CoolatMax/ONLY_API_DOCUMENTATION
 
-### ❓ FAQs
-- 🔗 Repo 1 – Product FAQs  
-- 🔗 Repo 2 – Security & compliance FAQs  
-- 🔗 Repo 3 – Configuration & deployment FAQs  
-- 🔗 Repo 4 – Troubleshooting FAQs  
-- 🔗 Repo 5 – Operational FAQs  
+### ❓ FAQs: https://github.com/CoolatMax/ONLY_FAQs
 
-### 📝 Release Notes
-- 🔗 Repo 1 – Versioned release notes  
-- 🔗 Repo 2 – Breaking changes documentation  
-- 🔗 Repo 3 – Feature & enhancement summaries  
-- 🔗 Repo 4 – Security fixes & advisories  
-- 🔗 Repo 5 – Upgrade & migration notes  
+### 📝 Release Notes: https://github.com/CoolatMax/ONLY_REFERENCE_NOTES
+
+### 📘 End-User Documentation & Guides Portfolio: https://github.com/CoolatMax/ONLY_END_USER_DOCUMENTATION_-_GUIDE
 
 ---
 
