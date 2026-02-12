@@ -66,3 +66,6 @@ This section highlights hands-on documentation work across different documentati
 ## Philosophy
 
 > “If it can’t be explained clearly, it’s not finished.”
+
+## My stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app)
