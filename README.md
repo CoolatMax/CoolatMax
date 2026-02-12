@@ -66,12 +66,3 @@ This section highlights hands-on documentation work across different documentati
 ## Philosophy
 
 > “If it can’t be explained clearly, it’s not finished.”
-
-## PR Status
-{
-  user(login: "CoolatMax") {
-    openPRs: pullRequests(states: OPEN) { totalCount }
-    closedPRs: pullRequests(states: CLOSED) { totalCount }
-    mergedPRs: pullRequests(states: MERGED) { totalCount }
-  }
-}
