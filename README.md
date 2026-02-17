@@ -44,6 +44,9 @@ This section highlights hands-on documentation work across different documentati
 
 #### 📘 End-User Documentation & Guides: https://github.com/CoolatMax/ONLY_END_USER_DOCUMENTATION_-_GUIDE
 
+#### 🦖 Docusaurus (SSG): https://github.com/CoolatMax/ONLY_DOCUSAURUS
+
+#### ⚡ Vite (Build Tooling): https://github.com/CoolatMax/ONLY_VITE
 ---
 
 ## Currently focused on
@@ -66,6 +69,3 @@ This section highlights hands-on documentation work across different documentati
 ## Philosophy
 
 > “If it can’t be explained clearly, it’s not finished.”
-
-## My stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app)
