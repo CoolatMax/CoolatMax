@@ -86,3 +86,9 @@ This section highlights hands-on documentation work across different documentati
 ## Philosophy
 
 > “If it can’t be explained clearly, it’s not finished.”
+
+## Over and Out
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e6ff3e1b-6cb8-45b5-ac9f-49f60d808dc8" width="400" alt="Over and Out">
+</p>
