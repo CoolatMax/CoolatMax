@@ -1,0 +1,11 @@
+/* Tokyo Night Neon Colors */
+:root > * {
+  --md-primary-fg-color: #bb9af7;      /* Neon Purple */
+  --md-accent-fg-color: #7dcfff;       /* Neon Cyan */
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #1a1b26;      /* Tokyo Night Dark Background */
+  --md-code-bg-color: #24283b;
+  --md-typeset-color: #c0caf5;
+}

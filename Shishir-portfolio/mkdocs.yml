@@ -1,0 +1,93 @@
+site_name: Shishir's Documentation Portfolio
+
+theme:
+  name: material
+  palette:
+    # Light Mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark Mode (Tokyo Neon)
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs           # Horizontal top menu
+    - navigation.sections       # Better sidebar grouping
+    - navigation.expand         # Nested pages visible by default
+    - content.code.copy         # Copy button for your CLI/SDK docs
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home Page: index.md
+  - Portfolio Categories:
+    - 🖥️ CLI Documentation:
+            - CLI Overview: cli/cli_index.md
+            - Project 1: cli/project1.md
+            - Project 2: cli/project2.md
+            - Project 3: cli/project3.md
+            - Project 4: cli/project4.md
+            - Project 5: cli/project5.md
+            - Project 6: cli/project6.md
+    - 📦 SDK Documentation:
+            - SDK Overview: sdk/sdk_index.md
+            - Project 1: sdk/project7.md
+            - Project 2: sdk/project8.md
+            - Project 3: sdk/project9.md
+            - Project 4: sdk/project10.md 
+            - project 5: sdk/project11.md
+            - Project 6: sdk/project12.md
+    - 🌐 API Documentation:
+            - API Overview: api/api_index.md
+            - Project 1: api/project13.md
+            - Project 2: api/project14.md
+            - Project 3: api/project15.md
+            - Project 4: api/project16.md
+    - ❓ FAQs:
+            - FAQ Overview: FAQ/FAQ_index.md
+            - Project 1: FAQ/project17.md
+            - Project 2: FAQ/project18.md
+            - Project 3: FAQ/project19.md
+    - 📝 Release Notes:
+            - Release-Notes Overview: Release-Notes/Release_Notes_index.md
+            - Project 1: Release-Notes/project20.md
+    - 📘 End-User Documentation & Guides:
+            - End-User Documentation Overview: EUD/EUD_index.md
+            - Project 1: EUD/project21.md
+            - Project 2: EUD/project22.md
+            - Project 3: EUD/project23.md
+            - Project 4: EUD/project24.md
+    - 🦖 Docusaurus (SSG):
+            - Docusaurus Project Overview: DOCUS/DOCUS_index.md
+            - Project 1: DOCUS/project25.md
+            - Project 2: DOCUS/project26.md
+            - Project 3: DOCUS/project27.md
+    - 🍃 MkDocs (Material):
+            - MKDocs Project Overview: MKD/MKD_index.md
+            - Project 1: MKD/project28.md
+            - Project 2: MKD/project29.md
+            - Project 3: MKD/project30.md
+            - Project 4: MKD/project31.md
+            - Project 5: MKD/project32.md 
+    - 🏛 Sphinx (Engineering):
+            - Sphinx Project Overview: SPX/SPX_index.md
+            - Project 1: SPX/project33.md
+            - Project 2: SPX/project34.md
+            - Project 3: SPX/project35.md
+    - ⚡ Vite (Build Tooling):
+            - Vite Project Overview: VIT/VIT_index.md
+            - Project 1: VIT/project36.md
+            - Project 2: VIT/project37.md
+            - Project 3: VIT/project38.md
+  - Resume: Resume.md
+  - Contact: Contact.md
