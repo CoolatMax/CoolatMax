@@ -63,6 +63,10 @@ This section highlights hands-on documentation work across different documentati
 
 #### 🦖 Docusaurus (SSG): https://github.com/CoolatMax/ONLY_DOCUSAURUS
 
+#### 🍃 MkDocs (Material): https://github.com/CoolatMax/ONLY_mkdocs
+
+#### 🏛 Sphinx (Engineering): https://github.com/CoolatMax/ONLY_SPHINX
+
 #### ⚡ Vite (Build Tooling): https://github.com/CoolatMax/ONLY_VITE
 ---
 
