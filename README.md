@@ -58,7 +58,7 @@ This section highlights hands-on documentation work across different documentati
 #### ❓ FAQs: https://github.com/CoolatMax/ONLY_FAQs
 
 #### 📝 Release Notes: https://github.com/CoolatMax/ONLY_REFERENCE_NOTES
-
+<!--
 #### 📘 End-User Documentation & Guides: https://github.com/CoolatMax/ONLY_END_USER_DOCUMENTATION_-_GUIDE
 
 #### 🦖 Docusaurus (SSG): https://github.com/CoolatMax/ONLY_DOCUSAURUS
@@ -68,6 +68,7 @@ This section highlights hands-on documentation work across different documentati
 #### 🏛 Sphinx (Engineering): https://github.com/CoolatMax/ONLY_SPHINX
 
 #### ⚡ Vite (Build Tooling): https://github.com/CoolatMax/ONLY_VITE
+-->
 ---
 
 ## Currently focused on
