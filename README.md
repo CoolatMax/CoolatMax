@@ -17,73 +17,49 @@
   </tr>
 </table>
 
-I’m a **technical writer working in cybersecurity**, documenting enterprise-grade products like **eScan EDR, eScan XDR, and eScan EMM** at **Microworld Security Software Solutions**.
+I am a **Technical Writer transitioning into Data Science**, currently bridging the gap between complex system documentation and data-driven insights. 
 
-I specialize in translating complex security systems—endpoint detection, extended detection, device management, workflows, and policies—into documentation that engineers, security teams, and enterprise users can operate with confidence.
+With a background in **Civil Engineering & Infrastructure Consulting & Advisory**, I now document enterprise cybersecurity (EDR, XDR, EMM, SOHO products & Mobile Products) at **Microworld Security Software Solutions**. My goal is to apply my systems-thinking and analytical mindset to solve large-scale problems in Aerospace, Climate, and Security using Data Science.
 
-I come from an engineering background, which means I don’t just describe features—I explain **systems, intent, and impact**.
+> "Data tells the story; documentation makes it actionable."
 
-> Good documentation isn’t support material.  
-> It’s part of the product.
+---
+
+## Data Science Sprint & Open Source Interest
+I am currently in an intensive sprint to master the Data Science stack (Python, SQL, Pandas, Scikit-Learn) by contributing to major open-source repositories in high-impact sectors.
+
+### **Contribution Logs (My Progress)**
+- 🛰️ **Aerospace:** [OpenSky Network Contribution Log](https://github.com/CoolatMax/OpenSky_Network_Contribution_Log)
+- 🔐 **Cybersecurity:** [CrowdSecurity Contribution Logs](https://github.com/CoolatMax/CrowdSecurity_Contribution_Logs)
+- 🌾 **Agri-Tech:** [OpenET Contribution Log](https://github.com/CoolatMax/OpenET_Contribution_Log)
+- ♻️ **Waste Management:** [Openfoodfacts Contribution Log](https://github.com/CoolatMax/Openfoodfacts_Contribution_Log)
+- ☀️ **Renewable Energy:** [Open Climate Fix Contribution Log](https://github.com/CoolatMax/Open_Climate_Fix_Contribution_Log)
 
 ---
 
 ## What I work on
 
-- 📘 **Product Documentation**: user guides, admin manuals, workflows, SOPs for security products  
-- 🔐 **Cybersecurity Docs**: EDR/XDR concepts, policies, configurations, alerts, response flows  
-- ⚙️ **Docs-as-Code**: Markdown, GitHub, versioned documentation, CI-friendly workflows  
-- 🧠 **Systems Thinking**: explaining how components interact, not just where buttons are  
-
----
-
-## Proof of work 
-
-- 🧾 Actively documenting **production cybersecurity products** (EDR, XDR, EMM)  
-- ✍️ Writing on **Medium & Hashnode** about engineering, documentation, and systems thinking  
-- 📂 Documentation samples maintained on GitHub — **structured, versioned, reviewable**
+- 📊 **Data Science**: Exploratory Data Analysis (EDA), Statistical Inference, and Predictive Modeling  
+- 📘 **Product Documentation**: User guides, workflows, and SOPs for EDR, XDR, and EMM platforms  
+- ⚙️ **Docs-as-Code**: Markdown, GitHub, and CI/CD integrated documentation workflows  
+- 🧠 **Systems Thinking**: Breaking down how complex infrastructures and data pipelines interact  
 
 ---
 
 ## Documentation Portfolio (by Type)
 
-This section highlights hands-on documentation work across different documentation domains, aligned with real-world engineering and enterprise needs.
-
-#### 🖥️ CLI Documentation: https://github.com/CoolatMax/ONLY_CLI_DOCUMENTATION
-
-#### 📦 SDK Documentation: https://github.com/CoolatMax/ONLY_SDK_DOCUMENTATION
-
-#### 🌐 API Documentation: https://github.com/CoolatMax/ONLY_API_DOCUMENTATION
-
-#### ❓ FAQs: https://github.com/CoolatMax/ONLY_FAQs
-
-#### 📝 Release Notes: https://github.com/CoolatMax/ONLY_REFERENCE_NOTES
-<!--
-#### 📘 End-User Documentation & Guides: https://github.com/CoolatMax/ONLY_END_USER_DOCUMENTATION_-_GUIDE
-
-#### 🦖 Docusaurus (SSG): https://github.com/CoolatMax/ONLY_DOCUSAURUS
-
-#### 🍃 MkDocs (Material): https://github.com/CoolatMax/ONLY_mkdocs
-
-#### 🏛 Sphinx (Engineering): https://github.com/CoolatMax/ONLY_SPHINX
-
-#### ⚡ Vite (Build Tooling): https://github.com/CoolatMax/ONLY_VITE
--->
----
-
-## Currently focused on
-
-- Strengthening **product documentation for security platforms**  
-- Improving **developer & user experience** through clearer docs  
-- Building a **public documentation portfolio** aligned with enterprise standards  
+#### 🖥️ [CLI Documentation](https://github.com/CoolatMax/ONLY_CLI_DOCUMENTATION) 
+#### 📦 [SDK Documentation](https://github.com/CoolatMax/ONLY_SDK_DOCUMENTATION) 
+#### 🌐 [API Documentation](https://github.com/CoolatMax/ONLY_API_DOCUMENTATION) 
+#### ❓ [FAQs](https://github.com/CoolatMax/ONLY_FAQs) 
+#### 📝 [Reference Notes](https://github.com/CoolatMax/ONLY_REFERENCE_NOTES)
 
 ---
 
 ## Find me elsewhere
 
-- **LinkedIn**: https://linkedin.com/in/shishir-tambe  
-- **Medium**: https://medium.com/@shishirtambe  
-- **Hashnode**: https://hashnode.com/@ShishirLearns  
+- **LinkedIn**: [shishir-tambe](https://linkedin.com/in/shishir-tambe)  
+- **Medium**: [@shishirtambe](https://medium.com/@shishirtambe)  
 - **Email**: shishirtambe01@gmail.com  
 
 ---
