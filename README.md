@@ -17,51 +17,42 @@
   </tr>
 </table>
 
-I am a **Technical Writer transitioning into Data Science**, currently bridging the gap between complex system documentation and data-driven insights. 
 
-With a background in **Civil Engineering & Infrastructure Consulting & Advisory**, I now document enterprise cybersecurity (EDR, XDR, EMM, SOHO products & Mobile Products) at **Microworld Security Software Solutions**. My goal is to apply my systems-thinking and analytical mindset to solve large-scale problems in Aerospace, Climate, and Security using Data Science.
+**Technical Writer → Data Science | Civil Engineering → Predictive Modeling**
 
-> "Data tells the story; documentation makes it actionable."
+I work at the intersection of **engineering, data, and technology**, with interests in:
 
----
+`Python` · `SQL` · `Machine Learning` · `Time Series` · `Geospatial Data`
 
-## Data Science Sprint & Open Source Interest
-I am currently in an intensive sprint to master the Data Science stack (Python, SQL, Pandas, Scikit-Learn) by contributing to major open-source repositories in high-impact sectors.
+### 🎯 Focus
 
-### **Contribution Logs (My Progress)**
-- 🛰️ **Aerospace:** [OpenSky Network Contribution Log](https://github.com/CoolatMax/OpenSky_Network_Contribution_Log)
-- 🔐 **Cybersecurity:** [CrowdSecurity Contribution Logs](https://github.com/CoolatMax/CrowdSecurity_Contribution_Logs)
-- 🌾 **Agri-Tech:** [OpenET Contribution Log](https://github.com/CoolatMax/OpenET_Contribution_Log)
-- ♻️ **Waste Management:** [Openfoodfacts Contribution Log](https://github.com/CoolatMax/Openfoodfacts_Contribution_Log)
-- ☀️ **Renewable Energy:** [Open Climate Fix Contribution Log](https://github.com/CoolatMax/Open_Climate_Fix_Contribution_Log)
+☀️ Renewable Energy
+✈️ Aerospace
+🌍 Climate & Infrastructure
+🔐 Cybersecurity
 
----
+### 🚀 Building
 
-## What I work on
+**100-Day Data Science Roadmap** — learning through daily, domain-driven projects using real engineering datasets.
 
-- 📊 **Data Science**: Exploratory Data Analysis (EDA), Statistical Inference, and Predictive Modeling  
-- 📘 **Product Documentation**: User guides, workflows, and SOPs for EDR, XDR, and EMM platforms  
-- ⚙️ **Docs-as-Code**: Markdown, GitHub, and CI/CD integrated documentation workflows  
-- 🧠 **Systems Thinking**: Breaking down how complex infrastructures and data pipelines interact  
+### 🛠️ Also
+
+Technical Documentation · Docs-as-Code · Open Source · GitHub
+
+> **Build. Explain. Improve.**
 
 ---
 
-## Documentation Portfolio (by Type)
-
-#### 🖥️ [CLI Documentation](https://github.com/CoolatMax/ONLY_CLI_DOCUMENTATION) 
-#### 📦 [SDK Documentation](https://github.com/CoolatMax/ONLY_SDK_DOCUMENTATION) 
-#### 🌐 [API Documentation](https://github.com/CoolatMax/ONLY_API_DOCUMENTATION) 
-#### ❓ [FAQs](https://github.com/CoolatMax/ONLY_FAQs) 
-#### 📝 [Reference Notes](https://github.com/CoolatMax/ONLY_REFERENCE_NOTES)
-
----
-
-## Find me elsewhere
+##  🔗 Find me elsewhere
 
 - **LinkedIn**: [shishir-tambe](https://linkedin.com/in/shishir-tambe)  
 - **Medium**: [@shishirtambe](https://medium.com/@shishirtambe)  
 - **Email**: shishirtambe01@gmail.com  
 
+---
+### Track the progress
+
+[100 days- Data Science](https://github.com/CoolatMax/100-day-data-science)
 ---
 
 ## Philosophy
